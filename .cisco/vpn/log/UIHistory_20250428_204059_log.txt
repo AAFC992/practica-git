@@ -1,0 +1,1863 @@
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:40:59 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="128" uiTcpResponseCountV4="43" uiUdpRequestCountV4="1604" uiUdpResponseCountV4="1600" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:40:59 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="128"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="43"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1604"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1600"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:40:59 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:06 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="128" uiTcpResponseCountV4="43" uiUdpRequestCountV4="1610" uiUdpResponseCountV4="1606" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:06 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="128"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="43"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1610"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1606"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:06 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:08 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="128" uiTcpResponseCountV4="43" uiUdpRequestCountV4="1614" uiUdpResponseCountV4="1610" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:08 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="128"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="43"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1614"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1610"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:08 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:10 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="128" uiTcpResponseCountV4="43" uiUdpRequestCountV4="1616" uiUdpResponseCountV4="1612" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:10 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="128"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="43"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1616"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1612"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:10 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:20 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="128" uiTcpResponseCountV4="43" uiUdpRequestCountV4="1618" uiUdpResponseCountV4="1614" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:20 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="128"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="43"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1618"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1614"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:20 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:23 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="128" uiTcpResponseCountV4="43" uiUdpRequestCountV4="1620" uiUdpResponseCountV4="1616" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:23 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="128"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="43"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1620"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1616"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:23 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:35 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="128" uiTcpResponseCountV4="43" uiUdpRequestCountV4="1621" uiUdpResponseCountV4="1617" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:35 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="128"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="43"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1621"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1617"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:35 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:38 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="128" uiTcpResponseCountV4="43" uiUdpRequestCountV4="1623" uiUdpResponseCountV4="1619" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:38 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="128"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="43"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1623"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1619"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:38 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:43 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="132" uiTcpResponseCountV4="45" uiUdpRequestCountV4="1623" uiUdpResponseCountV4="1619" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:43 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="132"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="45"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1623"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1619"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:43 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:41:53 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1623" uiUdpResponseCountV4="1619" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:53 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1623"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1619"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:41:53 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:42:00 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1625" uiUdpResponseCountV4="1621" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:00 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1625"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1621"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:00 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:42:11 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1627" uiUdpResponseCountV4="1623" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:11 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1627"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1623"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:11 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:42:12 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1633" uiUdpResponseCountV4="1629" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:12 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1633"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1629"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:12 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:42:14 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1635" uiUdpResponseCountV4="1631" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:14 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1635"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1631"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:14 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:42:16 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1637" uiUdpResponseCountV4="1633" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:16 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1637"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1633"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:42:16 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:43:07 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1639" uiUdpResponseCountV4="1635" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:07 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1639"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1635"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:07 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:43:19 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1641" uiUdpResponseCountV4="1637" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:19 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1641"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1637"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:19 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:43:21 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1645" uiUdpResponseCountV4="1641" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:21 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1645"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1641"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:21 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:43:34 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1647" uiUdpResponseCountV4="1643" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:34 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1647"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1643"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:34 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:43:57 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1649" uiUdpResponseCountV4="1645" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:57 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1649"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1645"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:43:57 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:44:01 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1653" uiUdpResponseCountV4="1647" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:01 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1653"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1647"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:01 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:44:02 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1653" uiUdpResponseCountV4="1649" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:02 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1653"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1649"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:02 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:44:11 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1655" uiUdpResponseCountV4="1651" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:11 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1655"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1651"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:11 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:44:13 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="136" uiTcpResponseCountV4="47" uiUdpRequestCountV4="1657" uiUdpResponseCountV4="1653" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:13 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="136"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="47"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1657"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1653"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:13 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:44:16 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="140" uiTcpResponseCountV4="48" uiUdpRequestCountV4="1657" uiUdpResponseCountV4="1653" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:16 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="140"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="48"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1657"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1653"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:16 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:44:56 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="140" uiTcpResponseCountV4="48" uiUdpRequestCountV4="1659" uiUdpResponseCountV4="1655" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:56 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="140"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="48"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1659"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1655"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:56 p. m."/>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="28/04/2025 8:44:59 p. m.">
+	<statisticsnotification uiTcpRequestCountV4="140" uiTcpResponseCountV4="48" uiUdpRequestCountV4="1661" uiUdpResponseCountV4="1657" uiTcpRequestCountV6="0" uiTcpResponseCountV6="0" uiUdpRequestCountV6="0" uiUdpResponseCountV6="0" uiSWGHttpRequestCount="0" uiSWGHttpsRequestCount="0" uiSWGBypassedRequestCount="0" strSWGUmbrellaProxy="" strSWGUserMessage=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:59 p. m.">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_ipv4_info">
+			<listrowcolumn label="DNS Security IPv4"/>
+			<listrow id="stat_id_IPV4_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="140"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="48"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="1661"/>
+			</listrow>
+			<listrow id="stat_id_IPV4_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="1657"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_ipv6_info">
+			<listrowcolumn label="DNS Security IPv6"/>
+			<listrow id="stat_id_IPV6_tcp_request_count">
+				<listrowcolumn label="TCP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_tcp_response_count">
+				<listrowcolumn label="TCP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_request_count">
+				<listrowcolumn label="UDP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_IPV6_udp_response_count">
+				<listrowcolumn label="UDP Responses:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_http_request_count">
+				<listrowcolumn label="HTTP Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_https_request_count">
+				<listrowcolumn label="HTTPS Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_bypassed_request_count">
+				<listrowcolumn label="Bypassed Requests:"/>
+				<listrowcolumn label="0"/>
+			</listrow>
+			<listrow id="stat_id_SWG_umbrella_proxy">
+				<listrowcolumn label="Umbrella Proxy:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="28/04/2025 8:44:59 p. m."/>
+
